@@ -7,7 +7,7 @@
 
 # Arduino
 - [Blink example](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
-- [Switch example](https://www.arduino.cc/en/tutorial/switch)
+- [Buttoon example](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button)
 - [Serial port](https://www.arduino.cc/reference/en/language/functions/communication/serial/print/)
 - [Analog input](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
 - [PWM](https://forbot.pl/blog/kurs-arduino-silniki-pwm-serwomechanizm-zewnetrzne-biblioteki-id3913)
