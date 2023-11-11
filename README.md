@@ -13,6 +13,9 @@
 - [PWM](https://forbot.pl/blog/kurs-arduino-silniki-pwm-serwomechanizm-zewnetrzne-biblioteki-id3913)
 - [Distance measure](https://forbot.pl/blog/kurs-arduino-czujnik-odleglosci-hc-sr04-funkcje-id4290)
 - [Arduino bluetooth controler](https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor)
+- [Arduino Solar Tracker 1] (https://www.instructables.com/Arduino-Solar-Tracker/)
+- [Arduino Solar Tracker 2] (https://circuitdigest.com/microcontroller-projects/building-your-own-sun-tracking-solar-panel-using-arduino)
+- [Arduino Solar Tracker 3] (https://www.hackster.io/robotistan/solar-tracking-system-using-arduino-2696cc)
 
 # 3D Printing
 - [Prusa 3D printers](https://www.prusa3d.com/pl)
