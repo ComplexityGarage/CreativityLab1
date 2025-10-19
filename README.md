@@ -17,6 +17,13 @@
 - [Arduino Solar Tracker 2] (https://circuitdigest.com/microcontroller-projects/building-your-own-sun-tracking-solar-panel-using-arduino)
 - [Arduino Solar Tracker 3] (https://www.hackster.io/robotistan/solar-tracking-system-using-arduino-2696cc)
 
+# LoRa/Meshtastic 
+- [LoRa] (https://en.wikipedia.org/wiki/LoRa)
+- [Meshtastic] (https://meshtastic.org/)
+- [Flasher firmware’u na różne urządzenia LoRa, współpracujące z Meshtastic] (https://flasher.meshtastic.org/)
+- [Dostęp z komputera przez: HTTP, Bluetooth lub port szeregowy] (https://client.meshtastic.org/)
+- [Polska sieć w projekcie LoRa-NET] (https://loranet.pl/)
+
 # 3D Printing
 - [Prusa 3D printers](https://www.prusa3d.com/pl)
 
